@@ -11,4 +11,5 @@ class Singleton {
     static let shared = Singleton()
 
 
+    
 }
